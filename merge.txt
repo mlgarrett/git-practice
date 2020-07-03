@@ -1,3 +1,5 @@
 I want to see what happens if we edit the same file at the same time and just want to combine our changes. For code prolly not a good idea but why not if it's different function. I want to append the changes.
 
 Pull the repo and text me so we start with the same file. We both make local changes and then both push. Btw is this repo private?
+
+I have pulled this repo and modified only this file. Now I'm going to commit it and push to master.
