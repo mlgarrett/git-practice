@@ -2,4 +2,6 @@ I want to see what happens if we edit the same file at the same time and just wa
 
 Pull the repo and text me so we start with the same file. We both make local changes and then both push. Btw is this repo private?
 
+
 Mike's change here! What happened!?!?!
+
